@@ -25,6 +25,16 @@
 
 ## 课程大纲
 
+### 第〇部分：准备（必修）
+
+##### 0 环境准备 Environment Preparation
+- Github
+- Python 3
+- Jupyter Notebook
+- Sublime Text
+- 洛谷 Luogu
+- Pycharm （选修 Optional）
+
 ### 第一部分：新手村（必修）
 
 ##### 0 数学内容 Mathematical Enrichment
