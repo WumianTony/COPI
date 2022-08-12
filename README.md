@@ -210,3 +210,15 @@
 
 ##### 4 断言 Assert
 ~(后面害没写完，~
+
+### 参考资料 References
+- [Python 四种基础数据结构](https://www.cnblogs.com/pychina/p/10219772.html)
+- [算法入门](http://www.biancheng.net/algorithm/)
+- [经典搜索算法](https://zhuanlan.zhihu.com/p/187283548)
+- [Python 代码风格标准化 PEP8](https://zhuanlan.zhihu.com/p/99483593)
+- [Python 开发好习惯](https://www.zhihu.com/question/37751951/answer/73425339)
+- [Python 开发坏习惯](https://blog.csdn.net/m0_63171455/article/details/122632867)
+- [Python Class](https://www.runoob.com/python3/python3-class.html)
+- [Python Class Private 修饰符](https://www.jianshu.com/p/47d8f8d18157)
+- [RE 语法](https://zhuanlan.zhihu.com/p/28672572)
+- [Try-Except](https://zhuanlan.zhihu.com/p/63877158)
