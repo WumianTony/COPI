@@ -1,2 +1,3 @@
-# COPI
-The Course of Python Introduction (in both Contest &amp; Development)
+# [COPI] Course of Python Introduction
+## Python 入门课程
+
